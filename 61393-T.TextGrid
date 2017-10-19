@@ -1,0 +1,298 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 687.7899092970522 
+tiers? <exists> 
+size = 1 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 687.7899092970522 
+        intervals: size = 120 
+        intervals [1]:
+            xmin = 9.180266994226905 
+            xmax = 10.486441484300666 
+            text = "Tease" 
+
+        intervals [2]:
+            xmin = 12.72145116731577 
+            xmax = 13.708338559815948 
+            text = "Too (two?)" 
+   
+        intervals [3]:
+            xmin = 22.445194593420446 
+            xmax = 23.66429078415596 
+            text = "Tutor" 
+    
+        intervals [4]:
+            xmin = 32.00483768307618 
+            xmax = 33.040946180470506 
+            text = "Twice" 
+
+        intervals [5]:
+            xmin = 37.1853801700478 
+            xmax = 38.71320117468011 
+            text = "Telephone" 
+
+        intervals [6]:
+            xmin = 40.961029779196615 
+            xmax = 41.61079273518966 
+            text = "Tail (or tale)" 
+   
+        intervals [7]:
+            xmin = 44.086916432352375 
+            xmax = 44.92985215904606 
+            text = "Talk" 
+     
+        intervals [8]:
+            xmin = 51.12283910729354 
+            xmax = 52.43992618025242 
+            text = "Tea" 
+ 
+        intervals [9]:
+            xmin = 61.34343479345449 
+            xmax = 62.32685980793046 
+            text = "Talent" 
+
+        intervals [10]:
+            xmin = 65.99714245124257 
+            xmax = 66.84007817793625 
+            text = "Tennis" 
+
+        intervals [11]:
+            xmin = 70.63328894805784 
+            xmax = 71.37085770891481 
+            text = "Temperature" 
+
+        intervals [12]:
+            xmin = 77.41308725374269 
+            xmax = 78.55456271697372 
+            text = "Temporary" 
+
+        intervals [13]:
+            xmin = 83.31363734059849 
+            xmax = 84.33218467702004 
+            text = "Ten " 
+
+        intervals [14]:
+            xmin = 111.46676338303259 
+            xmax = 112.32726027069906 
+            text = "Things" 
+
+        intervals [15]:
+            xmin = 126.12869646274136 
+            xmax = 127.53358934056418 
+            text = "Toup" 
+
+        intervals [16]:
+            xmin = 132.9860497448951 
+            xmax = 133.6884961838065 
+            text = "Test" 
+
+        intervals [17]:
+            xmin = 139.67685207552623 
+            xmax = 140.62515476805663 
+            text = "Time" 
+
+        intervals [18]:
+            xmin = 156.00697164054102 
+            xmax = 156.92015201112585 
+            text = "Tool" 
+
+        intervals [19]:
+            xmin = 173.23447055484326 
+            xmax = 174.32326253515592 
+            text = "Tapes" 
+
+        intervals [20]:
+            xmin = 201.79741767518 
+            xmax = 203.18474939203 
+            text = "Teenager" 
+
+        intervals [21]:
+            xmin = 207.87357937176364 
+            xmax = 208.69895393748456 
+            text = "Terminal" 
+
+        intervals [22]:
+            xmin = 224.25934132693578 
+            xmax = 225.11983821460225 
+            text = "Temporary" 
+
+        intervals [23]:
+            xmin = 231.61746777453277 
+            xmax = 232.79406555970937 
+            text = "Tease" 
+
+        intervals [24]:
+            xmin = 237.38325720067743 
+            xmax = 238.06814247861607 
+            text = "Two (too?)" 
+
+        intervals [25]:
+            xmin = 245.74236982372318 
+            xmax = 246.4448162626346 
+            text = "Tom" 
+
+        intervals [26]:
+            xmin = 251.43495741821243 
+            xmax = 252.15496501809662 
+            text = "Top" 
+
+        intervals [27]:
+            xmin = 278.5740663276277 
+            xmax = 279.8209087566955 
+            text = "Tears" 
+
+        intervals [28]:
+            xmin = 289.28618774088426 
+            xmax = 290.3574185602242 
+            text = "Technique" 
+  
+        intervals [29]:
+            xmin = 302.9515417292281 
+            xmax = 303.9174055827313 
+            text = "Time" 
+
+        intervals [30]:
+            xmin = 309.83551683056 
+            xmax = 310.73113604017203 
+            text = "Term" 
+
+        intervals [31]:
+            xmin = 316.70904563348574 
+            xmax = 318.0261327064446 
+            text = "Terminology" 
+
+        intervals [32]:
+            xmin = 362.53304097443225 
+            xmax = 363.4286601840443 
+            text = "Telephone" 
+
+
+        intervals [33]:
+            xmin = 380.31205005366786 
+            xmax = 381.1549857803616 
+            text = "Tool" 
+
+        intervals [34]:
+            xmin = 390.040933232591 
+            xmax = 391.00679708609414 
+            text = "Turn" 
+
+        intervals [35]:
+            xmin = 395.35882069554316 
+            xmax = 396.1666341002913 
+            text = "Tail (or tale)" 
+
+        intervals [36]:
+            xmin = 409.4779941176626 
+            xmax = 410.65459190283923 
+            text = "Television" 
+
+        intervals [37]:
+            xmin = 417.6656514302032 
+            xmax = 418.71932108857027 
+            text = "Ticket" 
+
+        intervals [38]:
+            xmin = 430.15163688185356 
+            xmax = 431.4336016328669 
+            text = "Technology" 
+        intervals [79]:
+            xmin = 431.4336016328669 
+            xmax = 448.4720847634812 
+            text = "" 
+        intervals [39]:
+            xmin = 448.4720847634812 
+            xmax = 449.47307093892994 
+            text = "Temporal" 
+
+        intervals [40]:
+            xmin = 457.757408714682 
+            xmax = 458.96912882180425 
+            text = "Template" 
+
+        intervals [41]:
+            xmin = 475.28541057563285 
+            xmax = 476.339080234 
+            text = "Tangent" 
+
+        intervals [42]:
+            xmin = 482.32743612571977 
+            xmax = 483.2230553353318 
+            text = "T-shirt" 
+ 
+        intervals [43]:
+            xmin = 508.3088946464269 
+            xmax = 509.362564304794 
+            text = "Twice" 
+
+        intervals [44]:
+            xmin = 518.4957539022433 
+            xmax = 519.1103945362908 
+            text = "Train" 
+
+        intervals [45]:
+            xmin = 522.9562887893308 
+            xmax = 523.5533682624055 
+            text = "Training" 
+
+        intervals [46]:
+            xmin = 543.0064172928117 
+            xmax = 544.200576238961 
+            text = "Trumpet" 
+
+        intervals [47]:
+            xmin = 562.0352270205642 
+            xmax = 562.8957239082307 
+            text = "Tray" 
+
+        intervals [48]:
+            xmin = 575.1283636517254 
+            xmax = 576.2874002759293 
+            text = "Template" 
+   
+        intervals [49]:
+            xmin = 582.8786853298387 
+            xmax = 583.7743045394508 
+            text = "Tap" 
+
+        intervals [50]:
+            xmin = 594.082706030476 
+            xmax = 594.8553971132785 
+            text = "Tape" 
+       
+        intervals [51]:
+            xmin = 597.6636105410757 
+            xmax = 598.541668589715 
+            text = "Take" 
+      
+        intervals [52]:
+            xmin = 621.0592329121535 
+            xmax = 622.1129025705205 
+            text = "Towel" 
+      
+        intervals [53]:
+            xmin = 632.9461013905059 
+            xmax = 633.8417206001179 
+            text = "Took" 
+     
+        intervals [54]:
+            xmin = 638.3549389701238 
+            xmax = 639.1978746968175 
+            text = "Take" 
+     
+        intervals [55]:
+            xmin = 647.7871867352359 
+            xmax = 648.7706117497119 
+            text = "Tesla" 
+     
+        intervals [56]:
+            xmin = 669.8730236760641 
+            xmax = 670.8915710124857 
+            text = "Temporary" 
+        

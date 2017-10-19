@@ -1,0 +1,58 @@
+TierType,TierName,Label,Start,Mid,End,Duration
+IntervalTier,words,Tease,9180,9833,10486,1306
+IntervalTier,words,Too (two?),12721,13214,13708,987
+IntervalTier,words,Tutor,22445,23054,23664,1219
+IntervalTier,words,Twice,32004,32522,33040,1036
+IntervalTier,words,Telephone,37185,37949,38713,1528
+IntervalTier,words,Tail (or tale),40961,41285,41610,649
+IntervalTier,words,Talk,44086,44507,44929,843
+IntervalTier,words,Tea,51122,51780,52439,1317
+IntervalTier,words,Talent,61343,61834,62326,983
+IntervalTier,words,Tennis,65997,66418,66840,843
+IntervalTier,words,Temperature,70633,71001,71370,737
+IntervalTier,words,Temporary,77413,77983,78554,1141
+IntervalTier,words,Ten ,83313,83822,84332,1019
+IntervalTier,words,Things,111466,111896,112327,861
+IntervalTier,words,Toup,126128,126830,127533,1405
+IntervalTier,words,Test,132986,133337,133688,702
+IntervalTier,words,Time,139676,140150,140625,949
+IntervalTier,words,Tool,156006,156463,156920,914
+IntervalTier,words,Tapes,173234,173778,174323,1089
+IntervalTier,words,Teenager,201797,202490,203184,1387
+IntervalTier,words,Terminal,207873,208285,208698,825
+IntervalTier,words,Temporary,224259,224689,225119,860
+IntervalTier,words,Tease,231617,232205,232794,1177
+IntervalTier,words,Two (too?),237383,237725,238068,685
+IntervalTier,words,Tom,245742,246093,246444,702
+IntervalTier,words,Top,251434,251794,252154,720
+IntervalTier,words,Tears,278574,279197,279820,1246
+IntervalTier,words,Technique,289286,289821,290357,1071
+IntervalTier,words,Time,302951,303434,303917,966
+IntervalTier,words,Term,309835,310283,310731,896
+IntervalTier,words,Terminology,316709,317367,318026,1317
+IntervalTier,words,Telephone,362533,362980,363428,895
+IntervalTier,words,Tool,380312,380733,381154,842
+IntervalTier,words,Turn,390040,390523,391006,966
+IntervalTier,words,Tail (or tale),395358,395762,396166,808
+IntervalTier,words,Television,409477,410065,410654,1177
+IntervalTier,words,Ticket,417665,418192,418719,1054
+IntervalTier,words,Technology,430151,430792,431433,1282
+IntervalTier,words,,431433,439952,448472,17039
+IntervalTier,words,Temporal,448472,448972,449473,1001
+IntervalTier,words,Template,457757,458363,458969,1212
+IntervalTier,words,Tangent,475285,475812,476339,1054
+IntervalTier,words,T-shirt,482327,482775,483223,896
+IntervalTier,words,Twice,508308,508835,509362,1054
+IntervalTier,words,Train,518495,518802,519110,615
+IntervalTier,words,Training,522956,523254,523553,597
+IntervalTier,words,Trumpet,543006,543603,544200,1194
+IntervalTier,words,Tray,562035,562465,562895,860
+IntervalTier,words,Template,575128,575707,576287,1159
+IntervalTier,words,Tap,582878,583326,583774,896
+IntervalTier,words,Tape,594082,594468,594855,773
+IntervalTier,words,Take,597663,598102,598541,878
+IntervalTier,words,Towel,621059,621585,622112,1053
+IntervalTier,words,Took,632946,633393,633841,895
+IntervalTier,words,Take,638354,638775,639197,843
+IntervalTier,words,Tesla,647787,648278,648770,983
+IntervalTier,words,Temporary* ,669873,670382,670891,1018
